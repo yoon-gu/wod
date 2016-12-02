@@ -1,6 +1,6 @@
 # Strength
 | Date | Name | Time | REP | Weight |
-|------|------|------|-----|--------|
+|------|:----:|------|:---:|-------:|
 | 2016-11-03 | Power Snatch | - | 3 | 35 kg |
 | 2016-11-03 | Power Snatch | - | 1 | 43 kg |
 | 2016-11-10 | Clean and Jerk | - | 1 | 54 kg |
